@@ -1,0 +1,6 @@
+<view>
+  <button class="weui-btn weui-btn_primary">
+    主操作
+  </button>
+  <text class="title">hello world</text>
+</view>
